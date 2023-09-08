@@ -1,10 +1,10 @@
-#$ TITLE: z2k rates
+#$ TITLE: Z2k rates for 5" 
 #$ FIRMWARE_VERSION: 4.3
 #$ FIRMWARE_VERSION: 4.4
 #$ CATEGORY: RATES
 #$ STATUS: COMMUNITY
-#$ KEYWORDS: youtube, z2k, freestyle
-#$ AUTHOR: z2k
+#$ KEYWORDS: Z2k, rates, 5", 5 inch
+#$ AUTHOR: Z2k
 #$ DESCRIPTION: Freestyle rates with 907 deg/sec for roll/pitch and 800 deg/sec for yaw. Relatively smooth around the sticks middle.
 #$ DISCUSSION: hey, let's talk about this thing
 #$ INCLUDE: presets/4.3/rates/defaults.txt
