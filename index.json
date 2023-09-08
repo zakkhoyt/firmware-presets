@@ -186,7 +186,8 @@
       "Sugar K",
       "sugarK",
       "SupaflyFPV",
-      "UAV Tech (Mark Spatz)"
+      "UAV Tech (Mark Spatz)",
+      "z2k"
     ],
     "keywords": [
       "\\\\GAS",
@@ -502,7 +503,8 @@
       "whooptopia",
       "world champion",
       "wtfos",
-      "youtube"
+      "youtube",
+      "z2k"
     ]
   },
   "presets": [
@@ -1570,8 +1572,8 @@
     },
     {
       "fullPath": "presets/4.3/rates/z2k.txt",
-      "hash": "7c4cadcce2243e35b482e4c8e8d34943384ba693b1323843b51484503550dfc3",
-      "title": "Joshua Bardwell rates",
+      "hash": "6670eefb44e1c7490926a00fdc1a86effa1fde5a27fbe163548017f13e8e5147",
+      "title": "z2k rates",
       "firmware_version": [
         "4.3",
         "4.4"
@@ -1580,10 +1582,10 @@
       "status": "COMMUNITY",
       "keywords": [
         "youtube",
-        "bardwell",
+        "z2k",
         "freestyle"
       ],
-      "author": "Joshua Bardwell",
+      "author": "z2k",
       "priority": 10000
     },
     {
